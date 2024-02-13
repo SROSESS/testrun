@@ -1,0 +1,25 @@
+body{
+    background-color:pink;
+    font-family:"Protest Revolution", sans-serif;
+}
+.names
+{
+color:rgb(162, 0, 255);
+}
+.music
+{
+color:gray;
+text-align: left;
+top: 50px;
+}
+
+a {
+    color: grey;
+}
+
+.images
+{
+    position:relative;
+    right:-50px;
+    filter:grayscale(70%);
+}
